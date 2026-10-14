@@ -43,11 +43,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/thishon9607/Leetcodesolution/tree/main/0050-powx-n/) | Medium |
+| [0231-power-of-two](https://github.com/thishon9607/Leetcodesolution/tree/main/0231-power-of-two/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/thishon9607/Leetcodesolution/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/thishon9607/Leetcodesolution/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0231-power-of-two](https://github.com/thishon9607/Leetcodesolution/tree/main/0231-power-of-two/) | Easy |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/thishon9607/Leetcodesolution/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/thishon9607/Leetcodesolution/tree/main/0090-subsets-ii/) | Medium |
+| [0231-power-of-two](https://github.com/thishon9607/Leetcodesolution/tree/main/0231-power-of-two/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
