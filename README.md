@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/thishon9607/Leetcodesolution/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/thishon9607/Leetcodesolution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0046-permutations](https://github.com/thishon9607/Leetcodesolution/tree/main/0046-permutations/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -16,4 +17,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/thishon9607/Leetcodesolution/tree/main/0001-two-sum/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/thishon9607/Leetcodesolution/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
