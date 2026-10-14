@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/thishon9607/Leetcodesolution/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/thishon9607/Leetcodesolution/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0322-coin-change](https://github.com/thishon9607/Leetcodesolution/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/thishon9607/Leetcodesolution/tree/main/0518-coin-change-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,14 +107,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0233-number-of-digit-one](https://github.com/thishon9607/Leetcodesolution/tree/main/0233-number-of-digit-one/) | Hard |
 | [0322-coin-change](https://github.com/thishon9607/Leetcodesolution/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/thishon9607/Leetcodesolution/tree/main/0509-fibonacci-number/) | Easy |
+| [0518-coin-change-ii](https://github.com/thishon9607/Leetcodesolution/tree/main/0518-coin-change-ii/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/thishon9607/Leetcodesolution/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/thishon9607/Leetcodesolution/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/thishon9607/Leetcodesolution/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/thishon9607/Leetcodesolution/tree/main/0518-coin-change-ii/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
