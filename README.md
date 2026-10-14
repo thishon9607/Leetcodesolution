@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/thishon9607/Leetcodesolution/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/thishon9607/Leetcodesolution/tree/main/0233-number-of-digit-one/) | Hard |
 | [0326-power-of-three](https://github.com/thishon9607/Leetcodesolution/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/thishon9607/Leetcodesolution/tree/main/0342-power-of-four/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/thishon9607/Leetcodesolution/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/thishon9607/Leetcodesolution/tree/main/0233-number-of-digit-one/) | Hard |
 | [0326-power-of-three](https://github.com/thishon9607/Leetcodesolution/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/thishon9607/Leetcodesolution/tree/main/0342-power-of-four/) | Easy |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/thishon9607/Leetcodesolution/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/thishon9607/Leetcodesolution/tree/main/0090-subsets-ii/) | Medium |
 | [0231-power-of-two](https://github.com/thishon9607/Leetcodesolution/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/thishon9607/Leetcodesolution/tree/main/0342-power-of-four/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
