@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/thishon9607/Leetcodesolution/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/thishon9607/Leetcodesolution/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/thishon9607/Leetcodesolution/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0322-coin-change](https://github.com/thishon9607/Leetcodesolution/tree/main/0322-coin-change/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/thishon9607/Leetcodesolution/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/thishon9607/Leetcodesolution/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0322-coin-change](https://github.com/thishon9607/Leetcodesolution/tree/main/0322-coin-change/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,4 +97,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0233-number-of-digit-one](https://github.com/thishon9607/Leetcodesolution/tree/main/0233-number-of-digit-one/) | Hard |
+| [0322-coin-change](https://github.com/thishon9607/Leetcodesolution/tree/main/0322-coin-change/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/thishon9607/Leetcodesolution/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/thishon9607/Leetcodesolution/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
