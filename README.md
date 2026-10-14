@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/thishon9607/Leetcodesolution/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/thishon9607/Leetcodesolution/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/thishon9607/Leetcodesolution/tree/main/0052-n-queens-ii/) | Hard |
+| [0077-combinations](https://github.com/thishon9607/Leetcodesolution/tree/main/0077-combinations/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
