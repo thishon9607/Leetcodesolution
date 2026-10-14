@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/thishon9607/Leetcodesolution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/thishon9607/Leetcodesolution/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/thishon9607/Leetcodesolution/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/thishon9607/Leetcodesolution/tree/main/0051-n-queens/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0046-permutations](https://github.com/thishon9607/Leetcodesolution/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/thishon9607/Leetcodesolution/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/thishon9607/Leetcodesolution/tree/main/0051-n-queens/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +37,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/thishon9607/Leetcodesolution/tree/main/0050-powx-n/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/thishon9607/Leetcodesolution/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
