@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0233-number-of-digit-one](https://github.com/thishon9607/Leetcodesolution/tree/main/0233-number-of-digit-one/) | Hard |
 | [0326-power-of-three](https://github.com/thishon9607/Leetcodesolution/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/thishon9607/Leetcodesolution/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/thishon9607/Leetcodesolution/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0233-number-of-digit-one](https://github.com/thishon9607/Leetcodesolution/tree/main/0233-number-of-digit-one/) | Hard |
 | [0326-power-of-three](https://github.com/thishon9607/Leetcodesolution/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/thishon9607/Leetcodesolution/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/thishon9607/Leetcodesolution/tree/main/0509-fibonacci-number/) | Easy |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0233-number-of-digit-one](https://github.com/thishon9607/Leetcodesolution/tree/main/0233-number-of-digit-one/) | Hard |
 | [0322-coin-change](https://github.com/thishon9607/Leetcodesolution/tree/main/0322-coin-change/) | Medium |
+| [0509-fibonacci-number](https://github.com/thishon9607/Leetcodesolution/tree/main/0509-fibonacci-number/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,4 +114,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/thishon9607/Leetcodesolution/tree/main/0322-coin-change/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/thishon9607/Leetcodesolution/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
