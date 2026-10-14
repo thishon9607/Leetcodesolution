@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/thishon9607/Leetcodesolution/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/thishon9607/Leetcodesolution/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/thishon9607/Leetcodesolution/tree/main/0051-n-queens/) | Hard |
+| [0078-subsets](https://github.com/thishon9607/Leetcodesolution/tree/main/0078-subsets/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/thishon9607/Leetcodesolution/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/thishon9607/Leetcodesolution/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/thishon9607/Leetcodesolution/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/thishon9607/Leetcodesolution/tree/main/0078-subsets/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +46,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0051-n-queens](https://github.com/thishon9607/Leetcodesolution/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/thishon9607/Leetcodesolution/tree/main/0052-n-queens-ii/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/thishon9607/Leetcodesolution/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
