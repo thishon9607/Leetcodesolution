@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/thishon9607/Leetcodesolution/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/thishon9607/Leetcodesolution/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/thishon9607/Leetcodesolution/tree/main/0518-coin-change-ii/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/thishon9607/Leetcodesolution/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,4 +123,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/thishon9607/Leetcodesolution/tree/main/0509-fibonacci-number/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/thishon9607/Leetcodesolution/tree/main/1143-longest-common-subsequence/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/thishon9607/Leetcodesolution/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
